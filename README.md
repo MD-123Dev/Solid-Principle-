@@ -1,7 +1,7 @@
 # Solid-Principle-
 Solid Principle with TypeScript
 
-# Defintion : 
+# Defintion ( SOLID Principe ) : 
 
  - S : Single-responsiblity Principle => Every Class should have a single job to do and should only one reason to change a class .
  - O : Open-closed Principle =>  Objects or entities should be open for extension but closed for modification.( it means that we make an interface that contains functions and each class becomes implements from it and modifier )
